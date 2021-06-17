@@ -1,0 +1,13 @@
+body{
+    background-color: grey;
+}
+.klasa{
+    float: left;
+    margin-left: 25px;
+    margin-top: 10px;
+    width: 70px;
+    height: 30px;
+    background-color: rgba(3, 83, 23, 0.342);
+    padding-top: 10px;
+    text-align: center;
+}
